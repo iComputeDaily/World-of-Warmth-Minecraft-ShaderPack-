@@ -1,0 +1,8 @@
+{
+	"layers": [
+		{
+			"vertexSource": "world_of_warmth:shaders/material/invert.vert",
+			"fragmentSource": "world_of_warmth:shaders/material/invert.frag"
+		}
+	]
+}
