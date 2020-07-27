@@ -1,0 +1,8 @@
+{
+	"layers": [
+		{
+			"vertexSource": "world_of_warmth:shaders/material/warmth.vert",
+			"fragmentSource": "world_of_warmth:shaders/material/warmth.frag"
+		}
+	]
+}
