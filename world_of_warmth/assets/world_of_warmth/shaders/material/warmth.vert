@@ -1,5 +1,7 @@
 #include frex:shaders/api/vertex.glsl
 
+// Defines adjustalbe values for the image adjustment effects (between 0.0 and 1.0)
+
 varying float warmth;
 varying float tint;
 varying float contrast;
